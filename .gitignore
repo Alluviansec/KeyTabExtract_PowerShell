@@ -1,0 +1,25 @@
+# Keytab files
+*.keytab
+*.ktab
+*.kt
+
+# Test files
+test_*.keytab
+test_*.ktab
+test_*.kt
+
+# PowerShell/Windows
+*.ps1xml
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
